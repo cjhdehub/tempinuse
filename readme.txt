@@ -4,3 +4,4 @@ git has a mutable index called stage.
 
 what are you write.
 add in dev.
+create a new branch is quick.
